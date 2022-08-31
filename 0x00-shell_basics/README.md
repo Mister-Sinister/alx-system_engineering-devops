@@ -1,1 +1,2 @@
 0-current_working_directory prints the working directory
+1-listit lists the files in the current directory
