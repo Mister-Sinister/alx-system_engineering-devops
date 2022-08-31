@@ -6,3 +6,4 @@
 5-listfilesdigitonly lists the files in long format and users numerically
 6-firstdirectory creates a new directory in the tmp directory
 7-movethatfile moves betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete will delete betty from /tmp/my_first_directory
