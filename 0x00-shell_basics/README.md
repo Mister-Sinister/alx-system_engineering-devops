@@ -9,3 +9,4 @@
 8-firstdelete will delete betty from /tmp/my_first_directory
 9-firstdirdeletion deletes my_first_directory
 10-back takes you to the previous directory
+11-lists lists all files in the working, parent and boot folder
