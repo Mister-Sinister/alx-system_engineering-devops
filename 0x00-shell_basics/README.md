@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes my_first_directory
 10-back takes you to the previous directory
 11-lists lists all files in the working, parent and boot folder
+12-file_type will print the file type
