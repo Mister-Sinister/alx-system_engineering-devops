@@ -11,3 +11,4 @@
 10-back takes you to the previous directory
 11-lists lists all files in the working, parent and boot folder
 12-file_type will print the file type
+13-symbolic_link creates a link to /bin/ls using __ls__
