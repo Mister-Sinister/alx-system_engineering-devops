@@ -15,3 +15,4 @@
 14-copy_html will copy hmtl files from working directory to parent directory if they didn't exist before
 100-lets_move moves all files that start with uppercase to /tmp/u
 101-clean_emacs removes emacs files from working directory
+102-tree creates directories if the didn't exist before
