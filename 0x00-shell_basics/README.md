@@ -16,3 +16,4 @@
 100-lets_move moves all files that start with uppercase to /tmp/u
 101-clean_emacs removes emacs files from working directory
 102-tree creates directories if the didn't exist before
+103-commas prints everything in the working directory separated by commas
