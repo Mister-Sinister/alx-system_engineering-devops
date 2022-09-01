@@ -12,3 +12,9 @@
 11-directories_permissions adss execute permissions to all subdirectories of the current directory of the owner, group owner and all other users excluding regular files
 12-directory_permissions creates a directory called my_dir with permissions 751 in working directory
 13-change_group changes the group owner to school for the file hello
+100-change_owner_and_group creates a script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+
+101-symbolic_link_permissions creates a script that changes the owner and the group owner of the file _hello to vincent and staff respectively.
+
+102-if_only creates a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
+103-Star_Wars creates a script that will play the StarWars IV episode in the terminal.
