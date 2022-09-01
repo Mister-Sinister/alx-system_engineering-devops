@@ -5,7 +5,7 @@
 4-empty creates and empty file caleld hello
 5-execute adds execute permission to the owner of the file hello
 6-multiple_permissions adds execute permission to the owner and to the group owner and read permission to othe users
-7-everybody addds execution permission
+7-everybody adds execution permission
 8-James_Bond sets the owner, group of hello file no permissions but other users all the permissions
 9-John_Doe sets the file mode of hello to long form
 10-mirror_permissions sets the mode of hello to the same as olleh
